@@ -1,0 +1,39 @@
+body {
+    background-color:tan;
+    margin:0;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+}
+
+div {
+    display:inline-block;
+}
+
+h1 {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    margin-top: 10px;
+    font-size:40px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(94, 46, 12);
+    text-align: center;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:saddlebrown;
+}
+
+.card {
+    width: 300px;
+    vertical-align: top;
+    padding:5px;
+}
